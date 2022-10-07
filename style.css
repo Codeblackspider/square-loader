@@ -6,6 +6,12 @@ html {
 body {
     background-color: #2a2734;
 }
+h1 {
+    color: aqua;
+}
+p {
+    color: white;
+}
 .loader {
     display: inline-block;
     width: 50px;
